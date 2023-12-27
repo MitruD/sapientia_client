@@ -51,11 +51,6 @@ function Header() {
                 </a>
               </div>
             </li>
-            <li className="nav-item">
-              <a className="nav-link disabled" href="#">
-                Disabled
-              </a>
-            </li>
           </ul>
         </div>
       </nav>
